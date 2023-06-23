@@ -130,11 +130,11 @@ int main()
 
     display(head);
     cout<<endl;
-  cout<<'max='<<maxi(head)<<endl;
+  cout<<"max="<<maxi(head)<<endl;
 
-    cout<<'R_max='<<R_maxi(head)<<endl;
+    cout<<"R_max="<<R_maxi(head)<<endl;
 
-    cout<<'R_max2='<<R_maxi_2(head)<<endl;
+    cout<<"R_max2="<<R_maxi_2(head)<<endl;
 
 
     cout<<"min="<<mini(head)<<endl;
